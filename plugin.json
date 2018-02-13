@@ -1,0 +1,8 @@
+{
+    "id": "posttest",
+    "name": "posttest",
+    "description": "psot test",
+    "webapp": {
+        "bundle_path": "/static/posttest_bundle.js"
+    }
+}
